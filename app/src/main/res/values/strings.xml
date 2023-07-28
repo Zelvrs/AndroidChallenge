@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidChallenge</string>
+    <array name="countries">
+        <item>Indoensia</item>
+        <item>Belgia</item>
+        <item>Laos</item>
+        <item>Malaysia</item>
+        <item>Jepang</item>
+        <item>Spanyol</item>
+    </array>
+</resources>
